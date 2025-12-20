@@ -1,0 +1,9 @@
+* bodge-ode
+
+Open Dynamics Engine (ODE) bindings for Common Lisp.
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/borodust/bodge-ode.git |
+| commit  | 4f45c34                                      |
+| systems | bodge-ode                                    |
+|---------+----------------------------------------------|
